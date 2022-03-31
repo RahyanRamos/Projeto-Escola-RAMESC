@@ -1,2 +1,4 @@
-# serio-desenvolvimento-soft
-DS
+# Série de Desenvolvimento de Sistema
+## Disciplina - PDS
+
+Prof. João
