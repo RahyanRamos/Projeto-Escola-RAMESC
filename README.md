@@ -1,4 +1,3 @@
-# Desenvolvimento de Software - 2022
-DS
+# Projeto Escola
 
-Prof. João
+Projeto desenvolvido na matéria de Projeto e Desenvolvimento de Software.
